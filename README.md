@@ -7,3 +7,7 @@ Official signed and notarized macOS releases for [co-od](https://co-od.dev/).
 Requirements: Apple Silicon and macOS 26.5 or later.
 
 For help, see [Support](https://co-od.dev/support).
+
+## Author
+
+Made by [Sergey Moloman](https://moloman.dev), AI product engineer.
